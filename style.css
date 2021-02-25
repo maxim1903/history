@@ -1,0 +1,22 @@
+.my_table td:hover {
+    background: #FFFEC3; 
+    color: #fff; 
+}
+
+.my_table {
+	border-left: 3px solid #FFFFFF;
+	border-right: 3px solid #FFFFFF;
+	border-bottom: 3px solid #FFFFFF;
+	border-top: 3px solid #FFFFFF;
+	background: white;
+}
+
+.my_table th {
+	width: 155px;
+	text-align: left;
+	font-size: 16;
+}
+.my_table tr {
+	height: 40px;
+	text-align: center;
+}
